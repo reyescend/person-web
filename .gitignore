@@ -1,13 +1,1 @@
-# OS / System files
-.DS_Store
-Thumbs.db
 
-# Vercel deployment folder (optional)
-.vercel/
-
-# Logs
-*.log
-
-# Editor config (optional)
-.vscode/
-*.swp
